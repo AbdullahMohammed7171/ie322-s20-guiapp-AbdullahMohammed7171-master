@@ -1,0 +1,17 @@
+D:\IE322\App1 week 3\App1 week 3\bin\Debug\App1 week 3.exe.config
+D:\IE322\App1 week 3\App1 week 3\bin\Debug\App1 week 3.exe
+D:\IE322\App1 week 3\App1 week 3\bin\Debug\App1 week 3.pdb
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1 week 3.csprojAssemblyReference.cache
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1_week_3.FrmMain.resources
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1_week_3.Properties.Resources.resources
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1 week 3.csproj.GenerateResource.cache
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1 week 3.csproj.CoreCompileInputs.cache
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1 week 3.exe
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1 week 3.pdb
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1_week_3.FrmRadio.resources
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1_week_3.FrmCheck.resources
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1_week_3.FrmCombo.resources
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1_week_3.FrmImage.resources
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1_week_3.FrmRandom.resources
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1_week_3.FrmRandomCombo.resources
+D:\IE322\App1 week 3\App1 week 3\obj\Debug\App1_week_3.FrmImage2.resources
